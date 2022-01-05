@@ -15,7 +15,7 @@
 You can click the Preview link to take a look at your changes.
 --->
 
-![](https://img.shields.io/badge/Facebook-Techonology_By_MarMu-red?style=for-the-badge&logo=facebook.svg)
+![](https://img.shields.io/badge/Facebook-Techonology_By_MarMu-blue?style=for-the-badge&logo=facebook.svg)
 
 [![](https://img.shields.io/badge/Contact-Facebook_Page-purple?logo=Facebook&logoColor=blue&labelColor=black)](https://github.com/MarMu-BabyDragon) <br>
 
