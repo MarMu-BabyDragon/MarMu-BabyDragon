@@ -7,7 +7,7 @@
 [![](https://img.shields.io/badge/MARMU-BABY_DRAG0N-orange?style=for-the-badge&logoColor=red&labelColor=black)](https://github.com/B4BY-DG) 
 
 
-![marmu](https://myoctocat.com/assets/images/base-octocat.svg)
+![marmu](https://myoctocat.com/assets/images/base-digitcat.svg)
 
 
 <!--
