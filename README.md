@@ -4,10 +4,10 @@
 
 <img src="IMG_20220104_230411_008.jpg" alt="hackerpro_logo" height="205" width="250"> 
 
-[![](https://img.shields.io/badge/MARMU-BABY_DRAG0N-orange?style=for-the-badge&logoColor=red&labelColor=black)](https://github.com/B4BY-DG) 
+[![](https://img.shields.io/badge/MARMU-BABY_DRAG0N-orange?style=for-the-badge&logoColor=red&labelColor=black)](https://github.com/MarMu-BabyDragon) 
 
 
-![marmu](https://myoctocat.com/assets/images/base-digitcat.svg)
+![marmu](https://myoctocat.com/assets/images/base-octocat.svg)(https://github.com/MarMu-BabyDragon)
 
 
 <!--
